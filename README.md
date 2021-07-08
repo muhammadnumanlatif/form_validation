@@ -23,10 +23,11 @@ To make apps secure and easy to use, check whether the information the user has 
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Output 1</td>
+     <td>Output 2</td>
+
   </tr>
+
   <tr>
     <td><img src="https://github.com/muhammadnumanlatif/form_validation/blob/master/Screenshot_1625758866.png" width=270 height=480></td>
     <td><img src="https://github.com/muhammadnumanlatif/form_validation/blob/master/Screenshot_1625758832.png" width=270 height=480></td>
