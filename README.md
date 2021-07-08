@@ -21,4 +21,4 @@ Apps often require users to enter information into a text field. For example, yo
 To make apps secure and easy to use, check whether the information the user has provided is valid. If the user has correctly filled out the form, process the information. If the user submits incorrect information, display a friendly error message letting them know what went wrong.
 
 
-![Output 1](https://...image1.png) | ![Output 2](https://...image2.png)
+![Output 1](https://github.com/muhammadnumanlatif/form_validation/blob/master/Screenshot_1625758832.png) | ![Output 2](https://github.com/muhammadnumanlatif/form_validation/blob/master/Screenshot_1625758866.png)
